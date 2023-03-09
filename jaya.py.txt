@@ -1,0 +1,5 @@
+li=[1,2,3,4,5]
+squares=[i**2 for i in li]
+cubes=[j**2 for j in li]
+print("the square of the numbers are squares")
+print("the square of the numbers are cubes")
